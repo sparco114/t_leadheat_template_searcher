@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "-e_com"
+version = "0.1.0"
+description = ""
+authors = ["anton <sparco114@ya.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+uvicorn = "^0.24.0"
+fastapi = "^0.104.1"
+tinydb = "^4.8.0"
+python-multipart = "^0.0.6"
+requests = "^2.31.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

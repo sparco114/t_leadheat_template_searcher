@@ -1,0 +1,39 @@
+{
+  "_default": {
+    "1": {
+      "name": "Costumer Form",
+      "costumer_name": "text",
+      "costumer_email": "email",
+      "costumer_phone": "phone",
+      "order_date": "date"
+    },
+    "2": {
+      "name": "Bank Contacts Form",
+      "bank_name": "text",
+      "bank_manager_email": "email",
+      "bank_manager_phone": "phone"
+    },
+    "3": {
+      "name": "News Form",
+      "news_tag": "text",
+      "news_date": "date"
+    },
+    "4": {
+      "name": "Order Form",
+      "goods_name": "text",
+      "order_date": "date"
+    },
+    "5": {
+      "name": "Rent Form",
+      "rental_name": "text",
+      "rental_phone": "phone",
+      "rent_date": "date"
+    },
+    "6": {
+      "name": "Ticket Form",
+      "air_company_name": "text",
+      "air_company_email": "email",
+      "air_company_phone": "phone"
+    }
+  }
+}
